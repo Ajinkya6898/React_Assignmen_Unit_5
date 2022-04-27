@@ -1,0 +1,43 @@
+.navbar{
+border: 1px solid black;
+width: 100%;
+height: 50px;
+background-color: black;
+display: flex;
+}
+
+.name{
+     color: white;
+     margin: 15px 0 0 90px;
+     font-size: 20px;
+     font-family: sans-serif;
+}
+
+.nav_component{
+     display: flex;
+     /* border: 1px solid red; */
+     margin: 0px 0px 0 500px;
+}
+
+.nav_component > p {
+   padding-left: 50px;
+}
+
+.compo{
+     border: 1px solid black;
+     display: flex;
+     color: white;
+}
+
+.btn{
+     background-color: #0187a9;
+     color: white;
+     width: 100px ;
+     height: 30px;
+     margin: 12px 0px 0px 500px;
+     border-radius: 50px;
+     border: 0px ;
+     text-decoration: none;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     padding: 5px;
+}
